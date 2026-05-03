@@ -1,0 +1,90 @@
+[
+  {
+    "id": "1",
+    "name": "UV Protection Sunglasses",
+    "brand": "SunShade",
+    "price": 15,
+    "rating": 4.7,
+    "stock": 10,
+    "description": "Stylish UV protection sunglasses perfect for summer outings.",
+    "image": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?q=80&w=800&auto=format&fit=crop",
+    "category": "Accessories"
+  },
+  {
+    "id": "2",
+    "name": "Canvas Beach Bag",
+    "brand": "ShoreSide",
+    "price": 20,
+    "rating": 4.6,
+    "stock": 12,
+    "description": "Large capacity canvas bag for all your beach essentials.",
+    "image": "https://images.unsplash.com/photo-1544816155-12df9643f363?q=80&w=800&auto=format&fit=crop",
+    "category": "Accessories"
+  },
+  {
+    "id": "3",
+    "name": "Aloe Vera After-Sun Gel",
+    "brand": "CoolDown",
+    "price": 12,
+    "rating": 4.8,
+    "stock": 25,
+    "description": "Soothing aloe vera gel to cool and hydrate skin after sun exposure.",
+    "image": "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?q=80&w=800&auto=format&fit=crop",
+    "category": "Skincare"
+  },
+  {
+    "id": "4",
+    "name": "Wide-Brim Straw Hat",
+    "brand": "SunCatcher",
+    "price": 30,
+    "rating": 4.6,
+    "stock": 15,
+    "description": "Hand-woven straw hat with a wide brim for ultimate sun protection and style.",
+    "image": "https://images.unsplash.com/photo-1521310192545-4ac7951413f0?q=80&w=800&auto=format&fit=crop",
+    "category": "Accessories"
+  },
+  {
+    "id": "5",
+    "name": "Portable Beach Umbrella",
+    "brand": "ShoreShade",
+    "price": 45,
+    "rating": 4.7,
+    "stock": 8,
+    "description": "Large, wind-resistant umbrella with UV lining for maximum protection.",
+    "image": "https://images.unsplash.com/photo-1533038590840-1cde6e668a91?q=80&w=800&auto=format&fit=crop",
+    "category": "Accessories"
+  },
+  {
+    "id": "6",
+    "name": "Vitamin C Face Mist",
+    "brand": "DewFresh",
+    "price": 24,
+    "rating": 4.5,
+    "stock": 22,
+    "description": "Refreshing and hydrating face mist infused with Vitamin C and Aloe.",
+    "image": "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop",
+    "category": "Skincare"
+  },
+  {
+    "id": "7",
+    "name": "Sustainable Flip Flops",
+    "brand": "EcoStep",
+    "price": 32,
+    "rating": 4.4,
+    "stock": 16,
+    "description": "Comfortable flip flops made from recycled ocean plastics.",
+    "image": "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?q=80&w=800&auto=format&fit=crop",
+    "category": "Outfits"
+  },
+  {
+    "id": "8",
+    "name": "SPF 30 Lip Balm Pack",
+    "brand": "LipGuard",
+    "price": 8,
+    "rating": 4.6,
+    "stock": 100,
+    "description": "Pack of 3 hydrating lip balms with SPF 30 protection.",
+    "image": "https://images.unsplash.com/photo-1616394584738-fc6e612e71b9?q=80&w=800&auto=format&fit=crop",
+    "category": "Skincare"
+  }
+]
